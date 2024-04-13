@@ -1,0 +1,18 @@
+{
+  "name": "cli-atm-machine",
+  "version": "1.0.0",
+  "description": "Command line based ATM machine using inquirer and typescript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Ali Kazim Shah",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
